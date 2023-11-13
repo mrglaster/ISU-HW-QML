@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GuiBlock.qml</file>
+        <file>FooterSection.qml</file>
+        <file>HeaderSection.qml</file>
+        <file>ContentSection.qml</file>
+    </qresource>
+</RCC>
