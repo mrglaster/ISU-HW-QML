@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TestItem.qml</file>
+        <file>IBar.qml</file>
+        <file>IBox.qml</file>
+        <file>ICenterText.qml</file>
+    </qresource>
+</RCC>
